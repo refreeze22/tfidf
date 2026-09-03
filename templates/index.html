@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sistem Informasi Produk — TF-IDF</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="brand">
+          <span class="brand-badge">TF-IDF</span>
+          <h1>Sistem Informasi Produk</h1>
+        </div>
+        <span class="stat-chip">{{ total_produk }} produk terindeks</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- Search Section -->
+    <section class="search-section">
+      <div class="search-box">
+        <div class="search-row">
+          <div class="input-wrap">
+            <svg class="icon-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+            </svg>
+            <input
+              type="text"
+              id="searchInput"
+              placeholder="Cari produk... (contoh: mie, air mineral, kopi)"
+              autocomplete="off"
+            />
+          </div>
+          {% if kategori_list %}
+          <select id="kategoriFilter">
+            <option value="">Semua Kategori</option>
+            {% for k in kategori_list %}
+            <option value="{{ k }}">{{ k }}</option>
+            {% endfor %}
+          </select>
+          {% endif %}
+          <button id="searchBtn">Cari</button>
+        </div>
+        <p class="search-hint">Pencarian menggunakan algoritma <strong>TF-IDF</strong> + cosine similarity</p>
+      </div>
+    </section>
+
+    <!-- Results Section -->
+    <section id="resultsSection" class="hidden">
+      <div class="results-header">
+        <span id="resultsLabel"></span>
+        <span id="resultsMeta" class="mono"></span>
+      </div>
+      <div id="resultsGrid" class="product-grid"></div>
+    </section>
+
+    <!-- Empty State -->
+    <div id="emptyState" class="empty-state hidden">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+      </svg>
+      <p>Tidak ada produk yang cocok dengan pencarian ini.</p>
+      <span>Coba kata kunci lain atau hapus filter kategori.</span>
+    </div>
+
+    <!-- Rekomendasi Section -->
+    <section id="rekomendasiSection" class="hidden">
+      <div class="results-header">
+        <span id="rekomendasiLabel"></span>
+      </div>
+      <div id="rekomendasiGrid" class="product-grid"></div>
+    </section>
+
+  </main>
+
+  <!-- Score Tooltip -->
+  <div id="tooltip" class="tooltip hidden">Skor relevansi TF-IDF</div>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
