@@ -1,27 +1,185 @@
 nama_produk,harga,kategori,deskripsi
-Indomie Goreng,3500,Mie Instan,mie instan goreng dengan bumbu khas
-Indomie Kuah Ayam,3500,Mie Instan,mie instan kuah rasa ayam bawang
-Indomie Soto,3500,Mie Instan,mie instan kuah soto ayam
-Mie Sedaap Goreng,3200,Mie Instan,mie instan goreng crispy
-Aqua 600ml,3000,Minuman,air mineral botol sedang
-Aqua 1500ml,5000,Minuman,air mineral botol besar
-Le Minerale 600ml,3000,Minuman,air mineral dalam kemasan botol
-Teh Botol Sosro,5000,Minuman,teh manis dalam kemasan botol
-Pocari Sweat 350ml,7000,Minuman,minuman isotonik pengganti ion tubuh
-Kopi Kapal Api,2000,Kopi,kopi bubuk hitam tanpa gula
-Good Day Cappuccino,3000,Kopi,kopi susu cappuccino sachet
-Nescafe Classic,2500,Kopi,kopi instan hitam sachet
-Royco Ayam,2000,Bumbu,bumbu masak rasa ayam serbaguna
-Royco Sapi,2000,Bumbu,bumbu masak rasa sapi serbaguna
-Masako Ayam,2000,Bumbu,penyedap rasa ayam masako
-Gula Pasir 1kg,14000,Sembako,gula pasir putih kemasan 1 kilogram
-Beras 5kg,65000,Sembako,beras putih kemasan 5 kilogram
-Minyak Goreng 1L,18000,Sembako,minyak goreng kemasan 1 liter
-Sabun Lifebuoy,4000,Kebersihan,sabun mandi batang antiseptik
-Shampoo Sunsilk Sachet,1000,Kebersihan,sampo sachet perawatan rambut
-Odol Pepsodent,8000,Kebersihan,pasta gigi pepsodent 75gr
-Chitato Sapi Panggang,8000,Snack,keripik kentang rasa sapi panggang
-Taro Net,5000,Snack,snack talas aneka rasa
-Oreo Original,5000,Snack,biskuit sandwich coklat krim vanilla
-Roti Tawar Sari Roti,12000,Roti,roti tawar putih kemasan
-Roti Kasur Sari Roti,8000,Roti,roti kasur lembut isi selai
+Indomie Goreng,3500,Mie Instan,mie instan goreng dengan bumbu khas bawang goreng dan kecap gurih
+Indomie Kuah Rasa Ayam Bawang,3500,Mie Instan,mie instan kuah rasa kaldu ayam gurih dengan aroma minyak bawang
+Indomie Kuah Rasa Soto Mie,3500,Mie Instan,mie instan kuah soto ayam segar dengan bumbu rempah kuning
+Indomie Kari Ayam,3500,Mie Instan,mie instan kuah rasa kari ayam kental gurih berempah
+Indomie Goreng Rendang,3500,Mie Instan,mie instan goreng pedas rempah khas kuliner rendang padang
+Mie Sedaap Goreng,3200,Mie Instan,mie instan goreng krispi dengan taburan kriuk renyah bawang
+Mie Sedaap Soto Madura,3200,Mie Instan,mie instan kuah rasa soto dengan serbuk gurih koya lezat
+Mie Sedaap Korean Spicy Chicken,3500,Mie Instan,mie instan goreng rasa ayam pedas korea bumbu pedas mantap
+Pop Mie Rasa Baso Spesial,5500,Mie Instan,mie instan cup kuah praktis rasa bakso daging sapi gurih
+Pop Mie Goreng Pedes Gledek,6000,Mie Instan,mie instan cup goreng pedas cabai merah ekstra nampol
+Lemonilo Mie Goreng Alami,7500,Mie Instan,mie instan alami saripati bayam tanpa pengawet dan rendah gluten
+Sarimi Isi 2 Ayam Kecap,4000,Mie Instan,mie instan goreng porsi dobel kenyang rasa ayam kecap manis gurih
+Supermi Ayam Bawang,3000,Mie Instan,mie kuah legendaris rasa kaldu ayam bawang hangat dan nikmat
+Samyang Hot Chicken Ramen Carbonara,22000,Mie Instan,mie instan korea kuah kental pedas rasa keju krim carbonara creamy
+Aqua 600ml,3000,Minuman,air mineral murni dalam kemasan botol sedang praktis dibawa
+Aqua 1500ml,5000,Minuman,air mineral botol besar untuk kebutuhan minum keluarga di rumah
+Le Minerale 600ml,3000,Minuman,air mineral alami pegunungan kemasan botol dengan mineral esensial
+Le Minerale 1500ml,5000,Minuman,air mineral botol besar alami pegunungan segar berkualitas
+Teh Botol Sosro 450ml,5000,Minuman,teh melati manis wangi asli indonesia dalam botol pet praktis
+Teh Pucuk Harum 350ml,3500,Minuman,minuman teh beraroma melati segar dari pucuk daun teh pilihan
+Pocari Sweat 350ml,7000,Minuman,minuman isotonik kemasan botol pengganti cairan tubuh dan ion elektrolit
+Pocari Sweat 500ml,9000,Minuman,minuman ion isotonik kemasan botol besar cepat menyegarkan hidrasi tubuh
+Floridina Orange 360ml,3500,Minuman,jus jeruk segar dengan bulir jeruk florida asli manis alami
+Buavita Jus Jambu 250ml,8000,Minuman,minuman sari buah jambu biji asli kaya vitamin c penambah imun tubuh
+Buavita Jus Jeruk 250ml,8000,Minuman,minuman jus jeruk kemasan kotak segar sumber vitamin c harian
+Coca-Cola Rasa Original 390ml,5500,Minuman,minuman bersoda rasa kola dingin menyegarkan dalam kemasan botol
+Sprite Lemon Nipis 390ml,5500,Minuman,minuman berkarbonasi rasa jeruk nipis lemon menyegarkan pelepas dahaga
+Fanta Stroberi 390ml,5500,Minuman,minuman soda manis rasa buah stroberi ceria menyegarkan hari
+Hydro Coco Original 250ml,7500,Minuman,air kelapa asli murni kemasan tetra pak segar tanpa bahan pengawet
+Larutan Cap Kaki Tiga Jambu 320ml,7000,Minuman,larutan pereda panas dalam tenggorokan kering sariawan rasa jambu kaleng
+Kratingdaeng Energy Drink 150ml,6500,Minuman,minuman berenergi botol kaca penambah stamina fisik dan konsentrasi
+Teh Kotak Sosro Melati 300ml,4500,Minuman,teh melati kotak diseduh dari daun teh wangi berkualitas
+Mizone Lychee Lemon 500ml,4500,Minuman,minuman isotonik vitamin beraroma leci lemon segar berenergi
+Nu Green Tea Madu 450ml,5500,Minuman,minuman teh hijau kemasan botol berpadu manis madu murni alami
+Kopi Kapal Api Special Mix,2000,Kopi dan Teh,kopi bubuk hitam tubruk berpadu gula pasir aroma kuat harum mantap
+Kopi Kapal Api Mantap Kopi Susu,2000,Kopi dan Teh,kopi hitam robusta campur susu manis kental lezat kemasan sachet
+Good Day Cappuccino Sachet,3000,Kopi dan Teh,kopi susu instan cappuccino berbusa lembut dengan taburan cokelat granul
+Good Day Mocacinno Sachet,2500,Kopi dan Teh,kopi instan 3 in 1 rasa moka cokelat nikmat dan manis seimbang
+Nescafe Classic Sachet,2500,Kopi dan Teh,kopi instan hitam murni tanpa ampas mudah larut air dingin maupun panas
+Nescafe Gold Jar 100g,58000,Kopi dan Teh,kopi hitam premium arabika robusta aroma mewah roasted coffee
+Kopi Luwak White Koffie,2500,Kopi dan Teh,kopi putih instan rendah asam lambung tidak bikin kembung perut
+Torabika Duo Kopi Gula,2000,Kopi dan Teh,kopi robusta pilihan campur gula tebu murni pas mantap
+Torabika Creamy Latte,3000,Kopi dan Teh,kopi instan creamy susu kental lembut dengan gula terpisah bisa diatur
+Kopi ABC Susu Sachet,2000,Kopi dan Teh,kopi bubuk hitam robusta dan susu kental manis gurih legit
+Sariwangi Teh Celup Asli 25s,6500,Kopi dan Teh,teh hitam celup aroma melati legendaris indonesia rasa sedap alami
+Tong Tji Teh Celup Melati 25s,11000,Kopi dan Teh,teh melati kemasan celup wangi harum segar pekat berkualitas
+Kepala Djenggot Teh Hijau 25s,14000,Kopi dan Teh,teh hijau celup murni kaya antioksidan alami menjaga kesehatan tubuh
+Luwak Kopi Murni Bubuk 165g,12000,Kopi dan Teh,kopi bubuk hitam murni tanpa gula aroma pekat harum menggugah selera
+Ultra Milk Rasa Cokelat 250ml,6500,Susu dan Olahan,susu uht cair segar rasa cokelat kaya kalsium fosfor dan vitamin
+Ultra Milk Full Cream 1000ml,20000,Susu dan Olahan,susu cair segar uht rasa tawar gurih alami untuk seluruh keluarga
+Ultra Milk Low Fat Cokelat 1000ml,22000,Susu dan Olahan,susu uht rendah lemak rasa cokelat sehat kaya kalsium tinggi
+Bear Brand Susu Steril 189ml,10500,Susu dan Olahan,susu sapi steril murni kaleng siap minum menjaga kemurnian dan daya tahan
+Milo Activ-Go UHT Kotak 180ml,5500,Susu dan Olahan,minuman susu cokelat malt bergizi dengan vitamin b dan mineral penambah energi
+Dancow FortiGro Cokelat 200g,24000,Susu dan Olahan,susu bubuk bergizi kaya zat besi dan zink untuk pertumbuhan anak
+Dancow 1+ Madu Pertumbuhan 400g,48000,Susu dan Olahan,susu pertumbuhan balita rasa madu dengan minyak ikan dan omega 3 6
+Frisian Flag Kental Manis Putih 370g,12500,Susu dan Olahan,susu kental manis lezat sumber vitamin dan kalsium untuk aneka minuman kue
+Indomilk Kental Manis Cokelat 370g,12000,Susu dan Olahan,susu krimer kental manis rasa cokelat kental pas untuk hidangan penutup
+Keju Kraft Singles 10 Lembar,22000,Susu dan Olahan,keju cheddar lembaran praktis rasa gurih kaya kalsium untuk isian roti burger
+Keju Prochiz Cheddar Blok 160g,14500,Susu dan Olahan,keju cheddar blok olahan mudah diparut tekstur lembut gurih asin pas
+Yakult Minuman Probiotik 5 Botol,11000,Susu dan Olahan,minuman fermentasi susu l casei shirota strain menjaga kesehatan pencernaan usus
+Cimory Yogurt Drink Blueberry 240ml,8500,Susu dan Olahan,minuman yogurt segar probiotik rasa buah blueberry manis asam nikmat
+Cimory UHT Fresh Milk Strawberry 250ml,6500,Susu dan Olahan,susu uht segar rasa stroberi creamy dari peternakan sapi segar
+Royco Kaldu Ayam 100g,4500,Bumbu,bumbu pelezat masakan serbaguna kaldu ayam asli gurih mantap
+Royco Kaldu Sapi 100g,4500,Bumbu,bumbu masak penyedap rasa kaldu daging sapi asli kuah gurih beraroma
+Masako Rasa Daging Ayam 100g,4500,Bumbu,ekstrak daging ayam pilihan penyedap rasa gurih untuk aneka masakan tumisan
+Masako Rasa Daging Sapi 100g,4500,Bumbu,penyedap kaldu sapi masako gurih sedap alami untuk sup dan gulai
+Bango Kecap Manis Refill 550ml,23000,Bumbu,kecap manis hitam pekat terbuat dari kedelai hitam malika berkualitas tinggi
+ABC Kecap Manis Botol 520ml,21000,Bumbu,kecap manis kental aroma sedap kaya rasa untuk bumbu cocolan dan marinasi
+Saori Saus Tiram 133ml,11500,Bumbu,saus tiram gurih dibuat dari ekstrak tiram asli penyedap masakan tumis oriental
+Saori Saus Teriyaki 133ml,11500,Bumbu,saus bumbu jepang teriyaki manis gurih meresap ke daging ayam atau sapi
+Sajiku Tepung Bumbu Serbaguna 200g,6500,Bumbu,tepung bumbu renyah krispi berempah untuk aneka gorengan ayam tempe tahu
+Ladaku Merica Bubuk Sachet,1500,Bumbu,merica lada putih bubuk murni aroma pedas khas alami bumbu dapur
+Sasa Santan Kelapa Cair 65ml,3500,Bumbu,santan kelapa siap pakai kental gurih harum alami dari kelapa tua pilihan
+Sasa Santan Bubuk 50g,3500,Bumbu,santan bubuk instan praktis tinggal seduh air hangat untuk gulai dan kolak
+Sasa Penyedap Rasa MSG 100g,5000,Bumbu,mononatrium glutamat murni penguat rasa gurih umami hidangan dapur
+Blue Band Serbaguna Margarin 200g,10500,Bumbu,margarin serbaguna dengan omega 3 6 dan vitamin untuk olesan roti dan kue
+ForVITA Margarin Serbaguna 200g,8500,Bumbu,margarin bebas lemak trans gurih harum untuk menumis memanggang memasak
+Garam Dapur Beriodium Cap Kapal 250g,4000,Bumbu,garam konsumsi beriodium kristal putih bersih penambah rasa asin masakan
+Beras Sania Premium 5kg,72000,Sembako,beras putih premium pulen bersih wangi alami teknologi jepang
+Beras Ramos Setra Pulen 5kg,68000,Sembako,beras putih setra ramos beras pulen tanpa bahan pemutih dan pengawet
+Beras Topi Koki Setra Ramos 5kg,70000,Sembako,beras kepala ramos putih bersih butir utuh nasi pulen empuk
+Gulaku Tebu Kuning Premium 1kg,17500,Sembako,gula pasir tebu kristal alami rasa manis murni untuk minuman dan masakan
+Gula Pasir Putih Rose Brand 1kg,17000,Sembako,gula pasir kristal putih bersih manis murni hasil olahan tebu alami
+Minyak Goreng Bimoli Klasik 2L,36000,Sembako,minyak kelapa sawit murni kualitas prima tahan panas tidak cepat hitam
+Minyak Goreng SunCo Pouch 2L,37000,Sembako,minyak goreng bening jernih seperti air tidak mudah membeku dan renyah
+Minyak Goreng Filma Pouch 2L,38000,Sembako,minyak goreng non kolesterol dengan vitamin d dan vitamin e kejernihan tinggi
+Minyak Goreng Sania Pouch 2L,35000,Sembako,minyak goreng kelapa sawit bermutu tinggi mengandung vitamin a dan e
+Tepung Terigu Segitiga Biru 1kg,13000,Sembako,tepung terigu serbaguna protein sedang cocok untuk aneka kue bolu gorengan martabak
+Tepung Terigu Cakra Kembar 1kg,14000,Sembako,tepung terigu protein tinggi elastis untuk pembuatan roti donat mie kenyal
+Telur Ayam Ras Negeri Segar 1kg,29000,Sembako,telur ayam ras negeri segar berkualitas cangkang tebal kaya protein hewani
+Bihun Jagung Padamu 300g,6000,Sembako,bihun dari pati jagung murni kenyal tidak mudah putus cocok digoreng atau kuah
+Sohun Cap Mangkok 100g,5000,Sembako,sohun bening kenyal lembut untuk campuran sup soto dan bakso kuah
+Sabun Lifebuoy Total 10 110g,4500,Kebersihan,sabun mandi batang antiseptik perlindungan kuman bakteri aktif wangi segar
+Sunlight Jeruk Nipis 700ml,15000,Kebersihan,sabun cuci piring konsentrat ekstrak jeruk nipis cepat hilangkan lemak membandel
+Mama Lemon Ekstrak Jeruk Nipis 680ml,13000,Kebersihan,cairan pembersih piring ampuh bersihkan sisa lemak dan bau amis buah sayur
+Rinso Molto Deterjen Bubuk Rose Fresh 770g,22000,Kebersihan,deterjen bubuk konsentrat hilangkan noda membandel 1x kucek aroma bunga mawar
+Daia Deterjen Bubuk Bunga 850g,18000,Kebersihan,deterjen bubuk wangi semerbak bunga lembut di tangan pakaian bersih cemerlang
+Attack Plus Softener Deterjen 800g,24000,Kebersihan,deterjen konsentrat plus pelembut pakaian bersihkan serat kain lebih wangi
+So Klin Pewangi Pakaian Violet 800ml,11000,Kebersihan,konsentrat pewangi pelembut pakaian semerbak wangi bunga violet tahan seharian
+Molto Pelembut Pakaian Blue 720ml,17000,Kebersihan,pelembut dan pelindung pakaian wangi segar tahan 14 hari mudah disetrika
+Wipol Karbol Wangi Cemara 750ml,17000,Kebersihan,cairan disinfektan pembersih lantai bunuh 99 persen kuman harum minyak cemara pinus
+Super Pell Pembersih Lantai Apel 770ml,14000,Kebersihan,cairan pembersih lantai wangi apel segar kilau bersih bebas debu dan kotoran
+Bayclin Pemutih Pakaian Regular 500ml,9500,Kebersihan,cairan pemutih pakaian putih cemerlang membasmi kuman jamur bau apek
+Stella Aerosol Air Freshener Orange 400ml,25000,Kebersihan,pengharum ruangan semprot semerbak aroma buah jeruk segar alami tahan lama
+Baygon Anti Nyamuk Spray 600ml,36000,Kebersihan,cairan semprot pembasmi nyamuk lalat kecoa serangga aksi cepat ruangan aman
+HIT Obat Nyamuk Semprot Lily Blossom 600ml,34000,Kebersihan,insektisida aerosol pembasmi nyamuk demam berdarah wangi bunga lembut
+Pasta Gigi Pepsodent Pencegah Gigi Berlubang 190g,14000,Perawatan Pribadi,odol pasta gigi mikro kalsium aktif dan pro fluoride memperkuat email gigi cegah lubang
+Pasta Gigi Sensodyne Fresh Mint 100g,32000,Perawatan Pribadi,pasta gigi khusus gigi sensitif redakan rasa ngilu sensasi mint nafas segar
+Pasta Gigi Closeup Menthol Fresh 160g,18000,Perawatan Pribadi,gel pasta gigi nafas segar menthol dingin memutihkan gigi perlindungan antibakteri
+Shampoo Sunsilk Black Shine 160ml,21000,Perawatan Pribadi,sampo perawatan rambut urang aring kilau hitam indah lembut mudah diatur
+Shampoo Pantene Anti Dandruff 160ml,25000,Perawatan Pribadi,sampo anti ketombe rontok membersihkan kulit kepala gatal sensasi segar
+Shampoo Clear Men Cool Sport Menthol 160ml,26000,Perawatan Pribadi,sampo pria anti ketombe sensasi dingin es menthol bersih tuntas bebas minyak
+Sabun Cair Biore Pure Mild Pouch 450ml,26000,Perawatan Pribadi,sabun mandi cair busa melimpah lembut di kulit formula yoghurt ekstrak kelembapan
+Sabun Mandi Dettol Original Batang 100g,8500,Perawatan Pribadi,sabun mandi batangan antibakteri higienis perlindungan keluarga wangi khas cemara
+Rexona Men Roll On Ice Cool 50ml,19000,Perawatan Pribadi,deodorant roll on pria cegah bau badan keringat 48 jam sensasi dingin es
+Rexona Women Roll On Glowing White 50ml,19000,Perawatan Pribadi,deodorant pencerah ketiak wanita perlindungan keringat dan aroma wangi segar
+Marina UV White Hand Body Lotion 185ml,9000,Perawatan Pribadi,losion tubuh mencerahkan kulit dengan mulberry vitamin e dan pelindung sinar uv
+Vaseline Petroleum Jelly Pure 50ml,28000,Perawatan Pribadi,petroleum jelly murni pelembap kulit kering bibir pecah tumit kasar regenerasi sel kulit
+Nivea Extra White Body Serum 180ml,35000,Perawatan Pribadi,serum lotion tubuh cepat meresap dengan vitamin c mencerahkan kulit belang
+Facial Foam Biore Men Cool Oil Clear 100g,28000,Perawatan Pribadi,sabun cuci muka pria busa mikro bersihkan komedo dan minyak berlebih wajah segar
+Facial Foam Ponds Bright Miracle 100g,31000,Perawatan Pribadi,sabun pembersih muka pencerah wajah niasorcinol samarkan noda hitam cerah merona
+Chitato Sapi Panggang 68g,10500,Snack,keripik kentang asli bergelombang rasa daging sapi panggang gurih renyah
+Chitato Ayam Bumbu 68g,10500,Snack,keripik kentang renyah rasa bumbu rempah ayam bakar nikmat gurih
+Taro Net Seaweed 65g,6500,Snack,makanan ringan renyah bentuk jaring rasa rumput laut gurih asin disukai anak
+Qtela Keripik Singkong Balado 180g,13500,Snack,keripik singkong tradisional renyah potongan tipis bumbu balado pedas manis khas
+Qtela Keripik Singkong Original 180g,13500,Snack,keripik singkong renyah gurih asin gurih alami camilan santai keluarga
+Kusuka Keripik Singkong Barbeque 180g,14000,Snack,keripik singkong olahan modern renyah rasa bumbu daging asap barbeque gurih
+Garuda Kacang Kulit Panggang 200g,16000,Snack,kacang tanah kulit panggang garing gurih renyah cemilan nonton santai
+Dua Kelinci Kacang Sukro Original 100g,7500,Snack,kacang salut tepung putih gurih bawang renyah kriuk berselera
+Dua Kelinci Tic Tac Sapi Panggang 90g,6500,Snack,snack pilus bulat renyah rasa sapi panggang bumbu gurih lezat
+Chiki Balls Rasa Keju 55g,5500,Snack,snack jagung bentuk bola renyah lumer di mulut berlapis bumbu keju gurih asin
+Chiki Twist Rasa Jagung Bakar 40g,4500,Snack,camilan jagung berpilin renyah aroma manis gurih jagung bakar nikmat
+Lays Keripik Kentang Rumput Laut 68g,11000,Snack,keripik kentang tipis iris halus bumbu tabur rumput laut nori asin gurih
+Piattos Sapi Panggang 75g,9000,Snack,keripik kentang heksagonal renyah rasa bumbu daging sapi panggang gurih lezat
+Potabee Potato Chips Wagyu Beef 68g,10000,Snack,keripik kentang v-cut renyah dengan taburan bumbu daging sapi wagyu gurih lezat
+Oreo Sandwich Vanilla Cream 123g,8500,Biskuit dan Cokelat,biskuit sandwich cokelat hitam renyah krim vanila manis lezat putar jilat celup
+Oreo Sandwich Strawberry Cream 123g,8500,Biskuit dan Cokelat,biskuit coklat renyah isi krim stroberi manis segar legit disukai keluarga
+Roma Biskuit Kelapa 300g,11000,Biskuit dan Cokelat,biskuit kelapa gurih renyah kelapa asli kaya vitamin bergizi nikmat teman teh
+Roma Malkist Abon Gurih 135g,7500,Biskuit dan Cokelat,biskuit malkist renyah berlapis taburan abon sapi asli gurih manis
+Roma Marie Gold Biskuit 240g,15000,Biskuit dan Cokelat,biskuit marie susu rasa mentega butter kaya kalsium celup susu kopi
+Tango Wafer Chocolate 130g,7500,Biskuit dan Cokelat,wafer renyah berlapis krim cokelat lembut tebal master cokelat nikmat
+Tango Wafer Vanilla 130g,7500,Biskuit dan Cokelat,wafer renyah isi krim vanila lembut harum manis renyah
+Khong Guan Assorted Biscuits Merah 650g,52000,Biskuit dan Cokelat,aneka ragam biskuit wafer kering kaleng merah legendaris camilan kumpul keluarga
+Beng-Beng Wafer Cokelat Karamel 25g,2500,Biskuit dan Cokelat,wafer renyah empat kelezatan karamel cokelat beras krispi manis lezat
+SilverQueen Cokelat Batang Cashew 58g,14500,Biskuit dan Cokelat,cokelat susu batang berkualitas premium berpadu kacang mede mete gurih renyah
+SilverQueen Cokelat Almond 58g,14500,Biskuit dan Cokelat,cokelat susu batangan nikmat dengan butiran kacang almond gurih lezat
+Choki-Choki Chococashew Stik 5x10g,5000,Biskuit dan Cokelat,pasta cokelat stik creamy rasa cokelat kacang mede manis enak favorit anak
+Pocky Chocolate Biscuit Stick 47g,9000,Biskuit dan Cokelat,biskuit stik jepang renyah berbalut lapisan cokelat pekat nikmat praktis
+Richeese Nabati Wafer Keju 130g,8000,Biskuit dan Cokelat,wafer renyah krim keju gurih kaya vitamin a dan b12 camilan lezat
+Dilan Chocolate Crunchy Roll 24g,2500,Biskuit dan Cokelat,wafer roll renyah berselimut cokelat karamel dan taburan biskuit krispi
+Sari Roti Tawar Spesial Jumbo,15000,Roti,roti tawar putih gandum empuk tebal lembut berkualitas sarapan praktis keluarga
+Sari Roti Sandwich Cokelat,5500,Roti,roti tawar lapis sandwich empuk isi krim pasta cokelat manis lezat siap santap
+Sari Roti Roti Kasur Manis,9000,Roti,roti kasur lembut empuk aroma wangi margarin manis pas untuk bekal kerja sekolah
+Sari Roti Sobek Cokelat Keju,10000,Roti,roti sobek empuk dengan kombinasi isian pasta cokelat dan keju gurih
+Aoka Roti Panggang Cokelat,3000,Roti,roti panggang kemasan lembut empuk isi krim selai cokelat manis nikmat
+Aoka Roti Panggang Keju,3000,Roti,roti panggang lembut empuk isi krim rasa keju gurih creamy
+Nutella Selai Cokelat Hazelnut 200g,39000,Roti,selai cokelat kacang hazelnut italia creamy olesan nikmat roti bakar pancake
+Morin Selai Strawberry 170g,18000,Roti,selai buah stroberi asli manis asam segar tekstur lembut olesan sarapan roti
+Morin Selai Nanas 170g,17000,Roti,selai nanas segar buah asli cocok untuk isian kue nastar dan olesan roti
+Skippy Peanut Butter Creamy Selai 170g,27000,Roti,selai kacang tanah tekstur halus creamy gurih manis tinggi protein sarapan
+Ceres Choco Hazelnut Spread 200g,26000,Roti,selai cokelat oles lumer pasta hazelnut manis legit untuk roti tawar
+Panadol Paracetamol Reguler Biru 10s,12000,Obat dan Kesehatan,obat pereda sakit kepala nyeri gigi sakit otot dan penurun demam paracetamol
+Panadol Extra Merah 10s,14000,Obat dan Kesehatan,obat pereda sakit kepala membandel dan migrain paracetamol dengan kafein cepat redakan
+Bodrex Tablet Sakit Kepala 20s,6000,Obat dan Kesehatan,obat sakit kepala demam flu pereda nyeri cepat terpercaya harga terjangkau
+Tolak Angin Cair Sido Muncul 5s,19000,Obat dan Kesehatan,obat herbal cair ekstrak mint adas madu redakan masuk angin mual perut kembung
+Antangin JRG Cair Herbal 5s,17500,Obat dan Kesehatan,sirup obat masuk angin herbal jahe merah royal jelly ginseng hangatkan tubuh meriang
+Promag Tablet Kunyah Sakit Maag 12s,9500,Obat dan Kesehatan,obat sakit maag antasida netralkan asam lambung nyeri perih ulu hati kembung mual
+Minyak Kayu Putih Cap Lang 60ml,23000,Obat dan Kesehatan,minyak kayu putih asli hangat redakan gatal serangga masuk angin perut kembung
+Freshcare Aromatherapy Citrus 10ml,15000,Obat dan Kesehatan,minyak angin roll on aromaterapi aroma jeruk segar redakan pusing mual mabuk
+Safe Care Aromatherapy Roll On 10ml,16000,Obat dan Kesehatan,minyak angin menyegarkan dengan aroma relaksasi hilangkan rasa lelah pegal
+Hansaplast Plester Kain Elastis 10s,6000,Obat dan Kesehatan,plester luka elastis kain rekat kuat melindungi luka gores dari debu bakteri kotoran
+Betadine Antiseptic Solution 30ml,27000,Obat dan Kesehatan,antiseptik cair obat luka povidone iodine mencegah infeksi luka luar luka bakar lecet
+Enervon-C Multivitamin 30 Tablet,42000,Obat dan Kesehatan,suplemen multivitamin daya tahan tubuh vitamin c dan vitamin b kompleks harian
+MamyPoko Pants Standar M 34,56000,Kebutuhan Bayi,popok bayi celana daya serap ekstra kering semalaman bebas ruam kulit bayi
+MamyPoko Pants Standar L 30,56000,Kebutuhan Bayi,popok celana anak bahan lembut pas di badan anak aktif bergerak nyaman
+Sweety Silver Pants M 30,52000,Kebutuhan Bayi,popok celana bayi elastis lembut sirkulasi udara baik cegah iritasi bocor
+Zwitsal Baby Bath Hair and Body 200ml,22000,Kebutuhan Bayi,sabun mandi cair dan sampo bayi aloe vera lembut di mata melembapkan kulit bayi
+Zwitsal Baby Powder Chamomile 300g,15000,Kebutuhan Bayi,bedak tabur bayi wangi bunga chamomile lembut jaga kelembapan kulit dari biang keringat
+Zwitsal Baby Oil Alami 100ml,19000,Kebutuhan Bayi,minyak pijat bayi dengan aloe vera melembutkan kulit bayi membersihkan kerak kepala
+Minyak Telon My Baby Plus 85ml,22000,Kebutuhan Bayi,minyak telon bayi melindungi dari gigitan nyamuk 8 jam hangatkan perut bayi kembung
+Minyak Telon Cap Lang Plus 60ml,18000,Kebutuhan Bayi,minyak telon alami aroma khas menjaga kehangatan tubuh bayi cegah masuk angin
+Cussons Baby Wipes Fresh 50s,14000,Kebutuhan Bayi,tisu basah bayi pembersih lembut tanpa alkohol aman untuk tangan dan mulut bayi
+Cerelac Beras Merah Susu 120g,13500,Kebutuhan Bayi,bubur sereal gizi bayi beras merah kaya zat besi zinc nutrisi pendamping asi
+Promina Bubur Bayi Beras Merah 120g,14000,Kebutuhan Bayi,makanan pendamping asi bubur lembut bayi tinggi kalsium omega rasa lezat
